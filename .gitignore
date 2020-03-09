@@ -1,1 +1,12 @@
-node_modules
+# Build output
+public/
+.cache/
+
+# Dependencies
+node_modules/
+
+# misc
+.DS_Store
+*.log*
+/.env
+/dist
